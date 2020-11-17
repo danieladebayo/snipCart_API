@@ -1,0 +1,9 @@
+*** Getting started ***
+
+Go to your terminal
+
+To get the node_modules
+ npm install
+
+To Run the test
+ npm test
